@@ -1,0 +1,9 @@
+# OS metadata
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Editor temp files
+*.tmp
+*.temp
+*.swp

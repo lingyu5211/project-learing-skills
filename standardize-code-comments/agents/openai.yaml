@@ -1,0 +1,4 @@
+interface:
+  display_name: "工业级代码注释标准化"
+  short_description: "Objective layered comments for existing source projects."
+  default_prompt: "Use $standardize-code-comments to add standardized comments to my existing source code without changing business logic."

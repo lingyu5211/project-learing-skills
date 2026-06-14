@@ -1,0 +1,4 @@
+interface:
+  display_name: "Éî¶È´úÂë×¢ÊÍ"
+  short_description: "Detailed learning comments for existing codebases."
+  default_prompt: "Use $comment-deep to add detailed learning-oriented comments to my existing source code."

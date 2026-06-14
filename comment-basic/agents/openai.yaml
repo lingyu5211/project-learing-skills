@@ -1,0 +1,4 @@
+interface:
+  display_name: "»ù´¡´úÂë×¢ÊÍ"
+  short_description: "Concise basic comments for existing source files."
+  default_prompt: "Use $comment-basic to add concise basic comments to my existing source code."

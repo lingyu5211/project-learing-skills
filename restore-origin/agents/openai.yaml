@@ -1,0 +1,4 @@
+interface:
+  display_name: "±£¡Ù‘≠◊¢ Õ≤π≥‰"
+  short_description: "Supplement comments while preserving originals."
+  default_prompt: "Use $restore-origin to preserve all existing comments and only add missing comments."

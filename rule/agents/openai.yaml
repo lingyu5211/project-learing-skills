@@ -1,0 +1,4 @@
+interface:
+  display_name: "代码注释规则"
+  short_description: "Complete rules for standardized code commenting."
+  default_prompt: "Use $rule to show the complete standardized code commenting rules."

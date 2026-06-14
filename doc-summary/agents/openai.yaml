@@ -1,0 +1,4 @@
+interface:
+  display_name: "×¢ÊÍËµÃ÷ÎÄµµ"
+  short_description: "Documentation-only code comment summaries."
+  default_prompt: "Use $doc-summary to generate only a comment explanation document for my existing code."
